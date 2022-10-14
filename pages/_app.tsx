@@ -1,4 +1,5 @@
 import 'antd/dist/antd.css';
+import 'styles/globals.css';
 import type { AppProps } from 'next/app';
 import { RecoilRoot } from 'recoil';
 import { Hydrate, QueryClient, QueryClientProvider, DehydratedState } from '@tanstack/react-query';

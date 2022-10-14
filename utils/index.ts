@@ -1,6 +1,3 @@
-import _get from 'lodash/get';
-import _padStart from 'lodash/padStart';
-
 /**
  * async await에서 then catch를 통해 에러 처리를 할 수 있게 제작된 함수.
  * asynchronous promise then catch = aptc
